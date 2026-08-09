@@ -21,7 +21,7 @@ export const SITE = {
   name: "Design Research",
   city: "Mumbai",
   email: "hello@designresearch.in",
-  instagram: "https://instagram.com/designresearch.studio",
+  instagram: "https://instagram.com/designresearchofficial",
   foundedBy: "Founded by Simran Chana",
   tagline: "A room within a room.",
 };
